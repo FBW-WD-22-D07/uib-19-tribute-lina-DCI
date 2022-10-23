@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2 {
+  color: #fff;
+  background-color: rgb(255, 81, 0);
+}
+h1 {
+  font-size: 3rem;
+  padding: 2rem 1rem 1rem 3rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  padding: 2rem 3rem 1rem 3rem;
+  display: inline-block;
+}
+
+img {
+filter: brightness(150%) contrast(600%);
+  width: 50vw;
+  height: 50vh;
+  object-fit: cover;
+ 
+}
+
+main {margin: 2rem 0 4rem 0;}
+
+ul {
+  list-style: none;
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(7, 241, 93);
+  font-weight: 700;
+}
+
+footer {
+  padding: 1rem;
+  text-align: center;
+  background-color: black;
+  color: #fff;
+}
+time {
+  font-style: italic;
+}
