@@ -20,8 +20,8 @@ h2 {
 
 img {
 filter: brightness(150%) contrast(600%);
-  width: 50vw;
-  height: 50vh;
+  width: 70vw;
+  height: 70vh;
   object-fit: cover;
  
 }
